@@ -4,7 +4,7 @@ http server that returns a list of whitelisted vendors and executes transactions
 
 ## run
 
-`cargo run -- <PORT>`
+`RUST_LOG=trace cargo run -- <PORT>`
 
 ## requests
 
